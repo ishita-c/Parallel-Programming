@@ -1,0 +1,623 @@
+Test case 0 
+k1 = 8
+k2 = 8
+n = 16
+m = 4
+Time taken for initial allocation : 112.57 ms
+Reading files done!
+Time taken for reading : 1.191 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 0.499 ms
+Kernel job done !
+Output k = 13
+Time taken for outputting : 0.849 ms
+Total Time taken : 115.111 ms
+
+Test case 1 
+k1 = 2
+k2 = 2
+n = 16
+m = 8
+Time taken for initial allocation : 95.258 ms
+Reading files done!
+Time taken for reading : 2.807 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 0.491 ms
+Kernel job done !
+Output k = 2
+Time taken for outputting : 0.73 ms
+Total Time taken : 99.286 ms
+
+Test case 2 
+k1 = 32
+k2 = 32
+n = 32
+m = 4
+Time taken for initial allocation : 74.438 ms
+Reading files done!
+Time taken for reading : 4.478 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 1.499 ms
+Kernel job done !
+Output k = 59
+Time taken for outputting : 1.017 ms
+Total Time taken : 81.433 ms
+
+Test case 3 
+k1 = 16
+k2 = 16
+n = 32
+m = 8
+Time taken for initial allocation : 87.12 ms
+Reading files done!
+Time taken for reading : 1.5 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 5.134 ms
+Kernel job done !
+Output k = 16
+Time taken for outputting : 4.713 ms
+Total Time taken : 98.468 ms
+
+Test case 4 
+k1 = 128
+k2 = 128
+n = 64
+m = 4
+Time taken for initial allocation : 77.903 ms
+Reading files done!
+Time taken for reading : 4.765 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 4.728 ms
+Kernel job done !
+Output k = 252
+Time taken for outputting : 4.095 ms
+Total Time taken : 91.492 ms
+
+Test case 5 
+k1 = 64
+k2 = 64
+n = 64
+m = 4
+Time taken for initial allocation : 75.315 ms
+Reading files done!
+Time taken for reading : 0.938 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 1.597 ms
+Kernel job done !
+Output k = 167
+Time taken for outputting : 1.028 ms
+Total Time taken : 78.88 ms
+
+Test case 6 
+k1 = 64
+k2 = 64
+n = 128
+m = 8
+Time taken for initial allocation : 88.755 ms
+Reading files done!
+Time taken for reading : 1.181 ms
+Number of blocks: 1
+Going to enter the kernel
+Time taken for processing : 8.929 ms
+Kernel job done !
+Output k = 172
+Time taken for outputting : 2.246 ms
+Total Time taken : 101.113 ms
+
+Test case 7 
+k1 = 128
+k2 = 128
+n = 128
+m = 4
+Time taken for initial allocation : 91.861 ms
+Reading files done!
+Time taken for reading : 1.157 ms
+Number of blocks: 2
+Going to enter the kernel
+Time taken for processing : 1.858 ms
+Kernel job done !
+Output k = 407
+Time taken for outputting : 1.847 ms
+Total Time taken : 96.725 ms
+
+Test case 8 
+k1 = 1024
+k2 = 1024
+n = 256
+m = 4
+Time taken for initial allocation : 95.705 ms
+Reading files done!
+Time taken for reading : 4.389 ms
+Number of blocks: 5
+Going to enter the kernel
+Time taken for processing : 9.859 ms
+Kernel job done !
+Output k = 4021
+Time taken for outputting : 8.929 ms
+Total Time taken : 118.883 ms
+
+Test case 9 
+k1 = 4096
+k2 = 4096
+n = 256
+m = 4
+Time taken for initial allocation : 93.737 ms
+Reading files done!
+Time taken for reading : 12.394 ms
+Number of blocks: 5
+Going to enter the kernel
+Time taken for processing : 90.439 ms
+Kernel job done !
+Output k = 4096
+Time taken for outputting : 10.057 ms
+Total Time taken : 206.629 ms
+
+Test case 10 
+k1 = 8192
+k2 = 8192
+n = 512
+m = 4
+Time taken for initial allocation : 74.86 ms
+Reading files done!
+Time taken for reading : 17.123 ms
+Number of blocks: 17
+Going to enter the kernel
+Time taken for processing : 62.146 ms
+Kernel job done !
+Output k = 16384
+Time taken for outputting : 31.088 ms
+Total Time taken : 185.218 ms
+
+Test case 11 
+k1 = 512
+k2 = 512
+n = 512
+m = 8
+Time taken for initial allocation : 91.663 ms
+Reading files done!
+Time taken for reading : 5.299 ms
+Number of blocks: 5
+Going to enter the kernel
+Time taken for processing : 16.457 ms
+Kernel job done !
+Output k = 2643
+Time taken for outputting : 20.357 ms
+Total Time taken : 133.778 ms
+
+Test case 12 
+k1 = 1024
+k2 = 1024
+n = 1024
+m = 4
+Time taken for initial allocation : 85.242 ms
+Reading files done!
+Time taken for reading : 2.468 ms
+Number of blocks: 65
+Going to enter the kernel
+Time taken for processing : 1.047 ms
+Kernel job done !
+Output k = 3978
+Time taken for outputting : 13.262 ms
+Total Time taken : 102.02 ms
+
+Test case 13 
+k1 = 256
+k2 = 256
+n = 1024
+m = 4
+Time taken for initial allocation : 77.102 ms
+Reading files done!
+Time taken for reading : 1.219 ms
+Number of blocks: 65
+Going to enter the kernel
+Time taken for processing : 0.38 ms
+Kernel job done !
+Output k = 244
+Time taken for outputting : 5.684 ms
+Total Time taken : 84.386 ms
+
+Test case 14 
+k1 = 4096
+k2 = 4096
+n = 1024
+m = 8
+Time taken for initial allocation : 92.548 ms
+Reading files done!
+Time taken for reading : 22.601 ms
+Number of blocks: 17
+Going to enter the kernel
+Time taken for processing : 112.799 ms
+Kernel job done !
+Output k = 16382
+Time taken for outputting : 116.403 ms
+Total Time taken : 344.352 ms
+
+Test case 15 
+k1 = 2048
+k2 = 2048
+n = 1024
+m = 8
+Time taken for initial allocation : 96.793 ms
+Reading files done!
+Time taken for reading : 11.147 ms
+Number of blocks: 17
+Going to enter the kernel
+Time taken for processing : 35.27 ms
+Kernel job done !
+Output k = 14164
+Time taken for outputting : 100.105 ms
+Total Time taken : 243.317 ms
+
+Test case 16 
+k1 = 16384
+k2 = 16384
+n = 2048
+m = 4
+Time taken for initial allocation : 102.142 ms
+Reading files done!
+Time taken for reading : 33.404 ms
+Number of blocks: 257
+Going to enter the kernel
+Time taken for processing : 46.079 ms
+Kernel job done !
+Output k = 226783
+Time taken for outputting : 437.532 ms
+Total Time taken : 619.157 ms
+
+Test case 17 
+k1 = 128
+k2 = 128
+n = 2048
+m = 4
+Time taken for initial allocation : 101.396 ms
+Reading files done!
+Time taken for reading : 1.234 ms
+Number of blocks: 257
+Going to enter the kernel
+Time taken for processing : 0.357 ms
+Kernel job done !
+Output k = 27
+Time taken for outputting : 7.113 ms
+Total Time taken : 110.102 ms
+
+Test case 18 
+k1 = 2048
+k2 = 2048
+n = 2048
+m = 8
+Time taken for initial allocation : 101.668 ms
+Reading files done!
+Time taken for reading : 10.704 ms
+Number of blocks: 65
+Going to enter the kernel
+Time taken for processing : 13.978 ms
+Kernel job done !
+Output k = 14501
+Time taken for outputting : 110.783 ms
+Total Time taken : 237.136 ms
+
+Test case 19 
+k1 = 4096
+k2 = 4096
+n = 2048
+m = 8
+Time taken for initial allocation : 102.265 ms
+Reading files done!
+Time taken for reading : 19.983 ms
+Number of blocks: 65
+Going to enter the kernel
+Time taken for processing : 43.264 ms
+Kernel job done !
+Output k = 41240
+Time taken for outputting : 295.717 ms
+Total Time taken : 461.231 ms
+
+Test case 20 
+k1 = 32768
+k2 = 32768
+n = 4096
+m = 4
+Time taken for initial allocation : 106.402 ms
+Reading files done!
+Time taken for reading : 75.592 ms
+Number of blocks: 1025
+Going to enter the kernel
+Time taken for processing : 102.286 ms
+Kernel job done !
+Output k = 663353
+Time taken for outputting : 1290.97 ms
+Total Time taken : 1575.26 ms
+
+Test case 21 
+k1 = 8192
+k2 = 8192
+n = 4096
+m = 4
+Time taken for initial allocation : 108.624 ms
+Reading files done!
+Time taken for reading : 19.875 ms
+Number of blocks: 1025
+Going to enter the kernel
+Time taken for processing : 10.826 ms
+Kernel job done !
+Output k = 63622
+Time taken for outputting : 157.591 ms
+Total Time taken : 296.918 ms
+
+Test case 22 
+k1 = 4096
+k2 = 4096
+n = 4096
+m = 8
+Time taken for initial allocation : 105.279 ms
+Reading files done!
+Time taken for reading : 22.801 ms
+Number of blocks: 257
+Going to enter the kernel
+Time taken for processing : 27.519 ms
+Kernel job done !
+Output k = 30995
+Time taken for outputting : 252.164 ms
+Total Time taken : 407.765 ms
+
+Test case 23 
+k1 = 32
+k2 = 32
+n = 4096
+m = 8
+Time taken for initial allocation : 105.03 ms
+Reading files done!
+Time taken for reading : 3.282 ms
+Number of blocks: 257
+Going to enter the kernel
+Time taken for processing : 0.617 ms
+Kernel job done !
+Output k = 3
+Time taken for outputting : 2.736 ms
+Total Time taken : 111.665 ms
+
+Test case 24 
+k1 = 32768
+k2 = 32768
+n = 8192
+m = 4
+Time taken for initial allocation : 134.066 ms
+Reading files done!
+Time taken for reading : 81.009 ms
+Number of blocks: 4097
+Going to enter the kernel
+Time taken for processing : 84.051 ms
+Kernel job done !
+Output k = 492618
+Time taken for outputting : 1087.61 ms
+Total Time taken : 1386.74 ms
+
+Test case 25 
+k1 = 65536
+k2 = 65536
+n = 8192
+m = 4
+Time taken for initial allocation : 129.664 ms
+Reading files done!
+Time taken for reading : 166.907 ms
+Number of blocks: 4097
+Going to enter the kernel
+Time taken for processing : 278.251 ms
+Kernel job done !
+Output k = 1648318
+Time taken for outputting : 3233.55 ms
+Total Time taken : 3808.37 ms
+
+Test case 26 
+k1 = 8192
+k2 = 8192
+n = 8192
+m = 8
+Time taken for initial allocation : 124.561 ms
+Reading files done!
+Time taken for reading : 42.3 ms
+Number of blocks: 1025
+Going to enter the kernel
+Time taken for processing : 57.815 ms
+Kernel job done !
+Output k = 63595
+Time taken for outputting : 526.222 ms
+Total Time taken : 750.899 ms
+
+Test case 27 
+k1 = 1024
+k2 = 1024
+n = 8192
+m = 8
+Time taken for initial allocation : 125.542 ms
+Reading files done!
+Time taken for reading : 7.224 ms
+Number of blocks: 1025
+Going to enter the kernel
+Time taken for processing : 5.773 ms
+Kernel job done !
+Output k = 1101
+Time taken for outputting : 49.771 ms
+Total Time taken : 188.311 ms
+
+Test case 28 
+k1 = 256
+k2 = 256
+n = 8192
+m = 8
+Time taken for initial allocation : 128.08 ms
+Reading files done!
+Time taken for reading : 2.331 ms
+Number of blocks: 1025
+Going to enter the kernel
+Time taken for processing : 1.06 ms
+Kernel job done !
+Output k = 63
+Time taken for outputting : 15.412 ms
+Total Time taken : 146.884 ms
+
+Test case 29 
+k1 = 16384
+k2 = 16384
+n = 16384
+m = 4
+Time taken for initial allocation : 222.372 ms
+Reading files done!
+Time taken for reading : 36.668 ms
+Number of blocks: 16385
+Going to enter the kernel
+Time taken for processing : 38.11 ms
+Kernel job done !
+Output k = 65161
+Time taken for outputting : 576.692 ms
+Total Time taken : 873.843 ms
+
+Test case 30 
+k1 = 65536
+k2 = 65536
+n = 16384
+m = 4
+Time taken for initial allocation : 228.554 ms
+Reading files done!
+Time taken for reading : 152.97 ms
+Number of blocks: 16385
+Going to enter the kernel
+Time taken for processing : 255.819 ms
+Kernel job done !
+Output k = 1016932
+Time taken for outputting : 2334.09 ms
+Total Time taken : 2971.44 ms
+
+Test case 31 
+k1 = 4096
+k2 = 4096
+n = 16384
+m = 4
+Time taken for initial allocation : 226.936 ms
+Reading files done!
+Time taken for reading : 10.471 ms
+Number of blocks: 16385
+Going to enter the kernel
+Time taken for processing : 8.081 ms
+Kernel job done !
+Output k = 4284
+Time taken for outputting : 227.27 ms
+Total Time taken : 472.758 ms
+
+Test case 32 
+k1 = 65536
+k2 = 65536
+n = 16384
+m = 8
+Time taken for initial allocation : 222.135 ms
+Reading files done!
+Time taken for reading : 341.491 ms
+Number of blocks: 4097
+Going to enter the kernel
+Time taken for processing : 1198.97 ms
+Kernel job done !
+Output k = 1651652
+Time taken for outputting : 11384 ms
+Total Time taken : 13146.6 ms
+
+Test case 33 
+k1 = 8192
+k2 = 8192
+n = 16384
+m = 8
+Time taken for initial allocation : 222.333 ms
+Reading files done!
+Time taken for reading : 46.924 ms
+Number of blocks: 4097
+Going to enter the kernel
+Time taken for processing : 66.25 ms
+Kernel job done !
+Output k = 32732
+Time taken for outputting : 607.766 ms
+Total Time taken : 943.276 ms
+
+Test case 34 
+k1 = 32768
+k2 = 32768
+n = 32768
+m = 4
+Time taken for initial allocation : 613.967 ms
+Reading files done!
+Time taken for reading : 91.995 ms
+Number of blocks: 65537
+Going to enter the kernel
+Time taken for processing : 126.159 ms
+Kernel job done !
+Output k = 130891
+Time taken for outputting : 1961.12 ms
+Total Time taken : 2793.24 ms
+
+Test case 35 
+k1 = 65536
+k2 = 65536
+n = 32768
+m = 4
+Time taken for initial allocation : 616.681 ms
+Reading files done!
+Time taken for reading : 212.953 ms
+Number of blocks: 65537
+Going to enter the kernel
+Time taken for processing : 297.958 ms
+Kernel job done !
+Output k = 522101
+Time taken for outputting : 2672.03 ms
+Total Time taken : 3799.62 ms
+
+Test case 36 
+k1 = 131072
+k2 = 131072
+n = 32768
+m = 4
+Time taken for initial allocation : 610.581 ms
+Reading files done!
+Time taken for reading : 226.673 ms
+Number of blocks: 65537
+Going to enter the kernel
+Time taken for processing : 845.275 ms
+Kernel job done !
+Output k = 2064442
+Time taken for outputting : 5429.69 ms
+Total Time taken : 7112.22 ms
+
+Test case 37 
+k1 = 32768
+k2 = 32768
+n = 32768
+m = 8
+Time taken for initial allocation : 586.488 ms
+Reading files done!
+Time taken for reading : 170.785 ms
+Number of blocks: 16385
+Going to enter the kernel
+Time taken for processing : 402.399 ms
+Kernel job done !
+Output k = 259981
+Time taken for outputting : 3204.1 ms
+Total Time taken : 4363.77 ms
+
+Test case 38 
+k1 = 8192
+k2 = 8192
+n = 32768
+m = 8
+Time taken for initial allocation : 592.009 ms
+Reading files done!
+Time taken for reading : 40.613 ms
+Number of blocks: 16385
+Going to enter the kernel
+Time taken for processing : 93.028 ms
+Kernel job done !
+Output k = 16550
+Time taken for outputting : 693.1 ms
+Total Time taken : 1418.75 ms

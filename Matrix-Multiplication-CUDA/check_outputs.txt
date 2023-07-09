@@ -1,0 +1,233 @@
+Test case 0 
+Namespace(filepaths=['tcs/input0/myout', 'tcs/input0/output0'], size=4)
+n1, m1, k1: 16 4 13
+n2, m2, k2: 16 4 13
+(1, 'correct_output')
+
+Test case 1 
+Namespace(filepaths=['tcs/input1/myout', 'tcs/input1/output1'], size=4)
+n1, m1, k1: 16 8 2
+n2, m2, k2: 16 8 2
+(1, 'correct_output')
+
+Test case 2 
+Namespace(filepaths=['tcs/input2/myout', 'tcs/input2/output2'], size=4)
+n1, m1, k1: 32 4 59
+n2, m2, k2: 32 4 59
+(1, 'correct_output')
+
+Test case 3 
+Namespace(filepaths=['tcs/input3/myout', 'tcs/input3/output3'], size=4)
+n1, m1, k1: 32 8 16
+n2, m2, k2: 32 8 16
+(1, 'correct_output')
+
+Test case 4 
+Namespace(filepaths=['tcs/input4/myout', 'tcs/input4/output4'], size=4)
+n1, m1, k1: 64 4 252
+n2, m2, k2: 64 4 252
+(1, 'correct_output')
+
+Test case 5 
+Namespace(filepaths=['tcs/input5/myout', 'tcs/input5/output5'], size=4)
+n1, m1, k1: 64 4 167
+n2, m2, k2: 64 4 167
+(1, 'correct_output')
+
+Test case 6 
+Namespace(filepaths=['tcs/input6/myout', 'tcs/input6/output6'], size=4)
+n1, m1, k1: 128 8 172
+n2, m2, k2: 128 8 172
+(1, 'correct_output')
+
+Test case 7 
+Namespace(filepaths=['tcs/input7/myout', 'tcs/input7/output7'], size=4)
+n1, m1, k1: 128 4 407
+n2, m2, k2: 128 4 407
+(1, 'correct_output')
+
+Test case 8 
+Namespace(filepaths=['tcs/input8/myout', 'tcs/input8/output8'], size=4)
+n1, m1, k1: 256 4 4021
+n2, m2, k2: 256 4 4021
+(1, 'correct_output')
+
+Test case 9 
+Namespace(filepaths=['tcs/input9/myout', 'tcs/input9/output9'], size=4)
+n1, m1, k1: 256 4 4096
+n2, m2, k2: 256 4 4096
+(1, 'correct_output')
+
+Test case 10 
+Namespace(filepaths=['tcs/input10/myout', 'tcs/input10/output10'], size=4)
+n1, m1, k1: 512 4 16384
+n2, m2, k2: 512 4 16384
+(1, 'correct_output')
+
+Test case 11 
+Namespace(filepaths=['tcs/input11/myout', 'tcs/input11/output11'], size=4)
+n1, m1, k1: 512 8 2643
+n2, m2, k2: 512 8 2643
+(1, 'correct_output')
+
+Test case 12 
+Namespace(filepaths=['tcs/input12/myout', 'tcs/input12/output12'], size=4)
+n1, m1, k1: 1024 4 3978
+n2, m2, k2: 1024 4 3978
+(1, 'correct_output')
+
+Test case 13 
+Namespace(filepaths=['tcs/input13/myout', 'tcs/input13/output13'], size=4)
+n1, m1, k1: 1024 4 244
+n2, m2, k2: 1024 4 244
+(1, 'correct_output')
+
+Test case 14 
+Namespace(filepaths=['tcs/input14/myout', 'tcs/input14/output14'], size=4)
+n1, m1, k1: 1024 8 16382
+n2, m2, k2: 1024 8 16382
+(1, 'correct_output')
+
+Test case 15 
+Namespace(filepaths=['tcs/input15/myout', 'tcs/input15/output15'], size=4)
+n1, m1, k1: 1024 8 14164
+n2, m2, k2: 1024 8 14164
+(1, 'correct_output')
+
+Test case 16 
+Namespace(filepaths=['tcs/input16/myout', 'tcs/input16/output16'], size=4)
+n1, m1, k1: 2048 4 226783
+n2, m2, k2: 2048 4 226783
+(1, 'correct_output')
+
+Test case 17 
+Namespace(filepaths=['tcs/input17/myout', 'tcs/input17/output17'], size=4)
+n1, m1, k1: 2048 4 27
+n2, m2, k2: 2048 4 27
+(1, 'correct_output')
+
+Test case 18 
+Namespace(filepaths=['tcs/input18/myout', 'tcs/input18/output18'], size=4)
+n1, m1, k1: 2048 8 14501
+n2, m2, k2: 2048 8 14501
+(1, 'correct_output')
+
+Test case 19 
+Namespace(filepaths=['tcs/input19/myout', 'tcs/input19/output19'], size=4)
+n1, m1, k1: 2048 8 41240
+n2, m2, k2: 2048 8 41240
+(1, 'correct_output')
+
+Test case 20 
+Namespace(filepaths=['tcs/input20/myout', 'tcs/input20/output20'], size=4)
+n1, m1, k1: 4096 4 663353
+n2, m2, k2: 4096 4 663353
+(1, 'correct_output')
+
+Test case 21 
+Namespace(filepaths=['tcs/input21/myout', 'tcs/input21/output21'], size=4)
+n1, m1, k1: 4096 4 63622
+n2, m2, k2: 4096 4 63622
+(1, 'correct_output')
+
+Test case 22 
+Namespace(filepaths=['tcs/input22/myout', 'tcs/input22/output22'], size=4)
+n1, m1, k1: 4096 8 30995
+n2, m2, k2: 4096 8 30995
+(1, 'correct_output')
+
+Test case 23 
+Namespace(filepaths=['tcs/input23/myout', 'tcs/input23/output23'], size=4)
+n1, m1, k1: 4096 8 3
+n2, m2, k2: 4096 8 3
+(1, 'correct_output')
+
+Test case 24 
+Namespace(filepaths=['tcs/input24/myout', 'tcs/input24/output24'], size=4)
+n1, m1, k1: 8192 4 492618
+n2, m2, k2: 8192 4 492618
+(1, 'correct_output')
+
+Test case 25 
+Namespace(filepaths=['tcs/input25/myout', 'tcs/input25/output25'], size=4)
+n1, m1, k1: 8192 4 1648318
+n2, m2, k2: 8192 4 1648318
+(1, 'correct_output')
+
+Test case 26 
+Namespace(filepaths=['tcs/input26/myout', 'tcs/input26/output26'], size=4)
+n1, m1, k1: 8192 8 63595
+n2, m2, k2: 8192 8 63595
+(1, 'correct_output')
+
+Test case 27 
+Namespace(filepaths=['tcs/input27/myout', 'tcs/input27/output27'], size=4)
+n1, m1, k1: 8192 8 1101
+n2, m2, k2: 8192 8 1101
+(1, 'correct_output')
+
+Test case 28 
+Namespace(filepaths=['tcs/input28/myout', 'tcs/input28/output28'], size=4)
+n1, m1, k1: 8192 8 63
+n2, m2, k2: 8192 8 63
+(1, 'correct_output')
+
+Test case 29 
+Namespace(filepaths=['tcs/input29/myout', 'tcs/input29/output29'], size=4)
+n1, m1, k1: 16384 4 65161
+n2, m2, k2: 16384 4 65161
+(1, 'correct_output')
+
+Test case 30 
+Namespace(filepaths=['tcs/input30/myout', 'tcs/input30/output30'], size=4)
+n1, m1, k1: 16384 4 1016932
+n2, m2, k2: 16384 4 1016932
+(1, 'correct_output')
+
+Test case 31 
+Namespace(filepaths=['tcs/input31/myout', 'tcs/input31/output31'], size=4)
+n1, m1, k1: 16384 4 4284
+n2, m2, k2: 16384 4 4284
+(1, 'correct_output')
+
+Test case 32 
+Namespace(filepaths=['tcs/input32/myout', 'tcs/input32/output32'], size=4)
+n1, m1, k1: 16384 8 1651652
+n2, m2, k2: 16384 8 1651652
+(1, 'correct_output')
+
+Test case 33 
+Namespace(filepaths=['tcs/input33/myout', 'tcs/input33/output33'], size=4)
+n1, m1, k1: 16384 8 32732
+n2, m2, k2: 16384 8 32732
+(1, 'correct_output')
+
+Test case 34 
+Namespace(filepaths=['tcs/input34/myout', 'tcs/input34/output34'], size=4)
+n1, m1, k1: 32768 4 130891
+n2, m2, k2: 32768 4 130891
+(1, 'correct_output')
+
+Test case 35 
+Namespace(filepaths=['tcs/input35/myout', 'tcs/input35/output35'], size=4)
+n1, m1, k1: 32768 4 522101
+n2, m2, k2: 32768 4 522101
+(1, 'correct_output')
+
+Test case 36 
+Namespace(filepaths=['tcs/input36/myout', 'tcs/input36/output36'], size=4)
+n1, m1, k1: 32768 4 2064442
+n2, m2, k2: 32768 4 2064442
+(1, 'correct_output')
+
+Test case 37 
+Namespace(filepaths=['tcs/input37/myout', 'tcs/input37/output37'], size=4)
+n1, m1, k1: 32768 8 259981
+n2, m2, k2: 32768 8 259981
+(1, 'correct_output')
+
+Test case 38 
+Namespace(filepaths=['tcs/input38/myout', 'tcs/input38/output38'], size=4)
+n1, m1, k1: 32768 8 16550
+n2, m2, k2: 32768 8 16550
+(1, 'correct_output')
